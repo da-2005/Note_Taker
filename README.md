@@ -28,7 +28,7 @@
   ```
   
   ## Usage
- * https://user-images.githubusercontent.com/90587395/146666184-315df2d7-8f60-4649-bf85-f32570c9cfa4.mp4
+  https://user-images.githubusercontent.com/90587395/146666184-315df2d7-8f60-4649-bf85-f32570c9cfa4.mp4
   
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
